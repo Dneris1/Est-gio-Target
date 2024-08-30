@@ -1,3 +1,40 @@
+Análise:
+
+O loop começa com K = 1 e vai até K < 12.
+
+Os valores de K serão de 2 a 11 (porque o loop termina quando K atinge 12).
+
+A soma dos valores de 2 a 11 é:
+
+
+=
+2
++
+3
++
+4
++
+5
++
+6
++
+7
++
+8
++
+9
++
+10
++
+11
+=
+75
+SOMA=2+3+4+5+6+7+8+9+10+11=75
+Então, ao final do processamento, SOMA será 75.
+
+
+
+
 4. Completar a sequência
 a) A sequência é uma série de números ímpares consecutivos:
 
